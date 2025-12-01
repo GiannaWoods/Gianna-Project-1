@@ -72,14 +72,14 @@ elif page == '🤠 About':
                 - Activities: Dance team
             ''')
 
-  with st.expander('2023 - 2025: NYC Museum School'):
+  with st.expander('2014 - 2018: Brooklyn High School '):
     st.write('''
-                - Graduated with honors
-                - AP Computer Science A (Score: 5)
-                - Founded Coding Club
+                - Graduated with a GPA of 4.0
+                - AP History A (Score: 8)
+                - Captain Of dance team 
             ''')
 
-  st.subheader('Interests & Hobbies 🏀')
+  st.subheader('Interests & Hobbies 💃🏼')
   interests = ['Web Development', 'AI/Machine Learning', 'Photography', 'Basketball', 'Travel', 'Baseball']
 
   # Display the interests in columns
