@@ -44,9 +44,8 @@ if page == '🏠 Home':
   with col1:
     st.subheader('Welcome to my webpage🌸')
     st.write('''
-                I am a Computer Information Systems student passionate about web development and emerging technologies. Currently learning
-                HTML, CSS, JavaScript, and Python to build innovative solutions.
-            
+                I am a student at Medgar Evers College studying Management, Computer science,as well as Business.
+                I'm studying these courses to develop my own world wide business one day. 
                 🌏 **Current Focus:** Building a worldwide business
             
               💹 **Currently Learning:**Business Administration
