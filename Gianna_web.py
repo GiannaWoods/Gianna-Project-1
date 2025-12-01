@@ -24,7 +24,7 @@ page = st.sidebar.radio('Go to',
 
 # Home Page
 if page == '🏠 Home':
-  st.markdown('<p class="main-header">Avinash Jairam</p>', unsafe_allow_html=True)
+  st.markdown('<p class="main-header">Gianna Woods</p>', unsafe_allow_html=True)
   st.markdown('<p class="sub-header">Aspiring Tech Professional | Medgar Evers College</p>', unsafe_allow_html=True)
 
   # Three Columns for stats
