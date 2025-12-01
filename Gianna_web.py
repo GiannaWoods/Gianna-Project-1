@@ -158,7 +158,7 @@ elif page == '📝 Resume':
   st.title('Resume')
 
   # Read PDF from my GitHub repository
-  with open('my_resume.pdf', 'rb') as pdf_file:
+  with open('file:///C:/Users/Gianna.Woods/Downloads/Gianna%20N.%20Woods%20resum%C3%A8.docx.pdf') as pdf_file:
     PDFbyte = pdf_file.read()
   
   st.download_button(
