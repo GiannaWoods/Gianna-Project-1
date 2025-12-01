@@ -179,11 +179,11 @@ elif page == '📩 Contact':
     st.write('''
         📧 **Email:**Giannawoods213@gmail.com
         
-        🏢 **LinkedIn:** [linkedin.com/in/yourname](https://linkedin.com)
+        🏢 **LinkedIn:** [linkedin.com/in/Gianna](https://linkedin.com)
 
-        👩‍💻 **Github:** [https://github.com/avinashjairam](https://github.com)
+        👩‍💻 **Github:** [https://github.com/Giannawoods](https://github.com)
 
-        📷 **Instagram:** [@yourhandle](https://instagram.com)
+        📷 **Instagram:** [@giaisthebest](https://instagram.com)
 
     ''')
 
