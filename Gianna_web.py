@@ -80,7 +80,7 @@ elif page == '🤠 About':
             ''')
 
   st.subheader('Interests & Hobbies 💃🏼')
-  interests = ['Web Development', 'AI/Machine Learning', 'Photography', 'Basketball', 'Travel', 'Baseball']
+  interests = ['Hairstylist', 'Dance Teacher', 'Videography', 'Gymnastics', 'Travel', 'Vollyball']
 
   # Display the interests in columns
   cols = st.columns(3)
