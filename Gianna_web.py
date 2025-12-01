@@ -47,11 +47,11 @@ if page == '🏠 Home':
                 I am a Computer Information Systems student passionate about web development and emerging technologies. Currently learning
                 HTML, CSS, JavaScript, and Python to build innovative solutions.
             
-                🎯 **Current Focus:** Building interactive web applications with Streamlit
+                🌏 **Current Focus:** Building a worldwide business
             
-                📚 **Currently Learning:** Internet and Emergin Technologies (CIS 211)
+              💹 **Currently Learning:**Business Administration
             
-                🌱 **Fun Fact:** I can solve a Rubik's cube in under 2 minutes!
+                🏝️ **Fun Fact:** I love to travel
             ''')
   with col2:
     # Placeholder for image
