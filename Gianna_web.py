@@ -56,7 +56,7 @@ if page == '🏠 Home':
             ''')
   with col2:
     # Placeholder for image
-    st.image('https://share.google/images/aq7ENKfPdpsCZquAs')
+    st.image('https://www.google.com/imgres?q=cute%20kittens&imgurl=https%3A%2F%2Fpreview.redd.it%2Fbaby-cats-are-amazing-creature-because-they-are-the-cutest-v0-y5vsyfep0hrb1.jpg%3Fauto%3Dwebp%26s%3Df2b197cccb2182a72955f9a64b0c66328228e78e&imgrefurl=https%3A%2F%2Fwww.mantellritchie.com%2F%3Ft%3D55373442021470&docid=xYzIJlNyMK1vdM&tbnid=pClaLLMgJbdpkM&vet=12ahUKEwio0oefsp2RAxWlKlkFHcGTIyYQM3oECC0QAA..i&w=625&h=720&hcb=2&ved=2ahUKEwio0oefsp2RAxWlKlkFHcGTIyYQM3oECC0QAA')
 
 # About Page
 elif page == '🤠 About':
