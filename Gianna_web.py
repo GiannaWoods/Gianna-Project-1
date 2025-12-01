@@ -46,6 +46,8 @@ if page == '🏠 Home':
     st.write('''
                 I am a student at Medgar Evers College studying Management, Computer science,as well as Business.
                 I'm studying these courses to develop my own world wide business one day. 
+               
+                
                 🌏 **Current Focus:** Building a worldwide business
             
               💹 **Currently Learning:**Business Administration
