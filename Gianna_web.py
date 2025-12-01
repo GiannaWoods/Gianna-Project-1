@@ -146,13 +146,13 @@ elif page == '🛠 Skills':
 
   with col2:
     st.success('PowerPoint')
-    st.info('Google Docs')
-    st.warning('Instagram')
+    st.info('Instagram')
+    st.warning('Google Docs')
     
   with col3:
     st.success('Presentations')
-    st.info('Writing')
-    st.warning('Social Media')
+    st.info('CNN')
+    st.warning('Twitter')
 
 elif page == '📝 Resume':
   st.title('Resume')
@@ -207,7 +207,7 @@ elif page == '📩 Contact':
     # Footer
     st.write('---')
     st.markdown(
-        f'<center>Made with 💗 using Streamlit | © {datetime.now().year} Gianna Woods </center>',
+        f'<center>Made with 💗 using Streamlit | © {2023.now().year} Gianna Woods </center>',
         unsafe_allow_html = True
     )
     
