@@ -4,7 +4,7 @@ from datetime import datetime
 
 # Page Config
 st.set_page_config(
-  page_title ='Avinash Jairam | Portfolio',
+  page_title ='Gianna Woods | Portfolio',
   page_icon='💕',
   layout = 'wide'
 )
@@ -56,7 +56,7 @@ if page == '🏠 Home':
             ''')
   with col2:
     # Placeholder for image
-    st.image('https://raw.githubusercontent.com/avinashjairam/cis211_project1/refs/heads/main/grumpy_cat.jfif', use_column_width=True)
+    st.image('https://share.google/images/aq7ENKfPdpsCZquAs)
 
 # About Page
 elif page == '🤠 About':
