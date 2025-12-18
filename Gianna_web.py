@@ -52,7 +52,7 @@ if page == '🏠 Home':
                💹 **Currently Learning:**Business Administration
                  🏝️ **Fun Fact:** I love to travel
             ''')
-       with col2:             
+    with col2:             
         # Placeholder for image
          st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
     
