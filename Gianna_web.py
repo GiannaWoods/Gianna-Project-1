@@ -54,9 +54,9 @@ if page == '🏠 Home':
             ''')
     with col2:             
         # Placeholder for image
-         st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
-    
-# About Page
+         st.imagitchie.('https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?auto=compress&cs=tinysrgb&w=1600', use_column_width=True)
+
+    # About Page
 elif page == '🤠 About':
   st.title('About Me')
 
