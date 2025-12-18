@@ -56,7 +56,7 @@ if page == '🏠 Home':
             ''')
   with col2:
     # Placeholder for image
-    st.imagitchie.'https://images.pexels.com/photos/45201/kitty-cat-kitten-pet-45201.jpeg?cs=srgb&dl=pexels-pixabay-45201.jpg&fm=jpg')
+    st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
 
 # About Page
 elif page == '🤠 About':
