@@ -47,22 +47,20 @@ if page == '🏠 Home':
                 I am a student at Medgar Evers College studying Management, Computer science,as well as Business.
                 I'm studying these courses to develop my own world wide business one day. 
                
-                
                 🌏 **Current Focus:** Building a worldwide business
-            
-              💹 **Currently Learning:**Business Administration
-            
-                🏝️ **Fun Fact:** I love to travel
+                
+               💹 **Currently Learning:**Business Administration
+                 🏝️ **Fun Fact:** I love to travel
             ''')
-  with col2:
+   with col2:             
     # Placeholder for image
-    st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
-
+     st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
+    
 # About Page
 elif page == '🤠 About':
   st.title('About Me')
 
-  # Timeline of my Professional Journey
+ # Timeline of my Professional Journey
   st.subheader('My Journey 🗺️')
 
   with st.expander('2024 - Present: Medgar Evers College'):
