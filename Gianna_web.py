@@ -54,7 +54,7 @@ if page == '🏠 Home':
             ''')
     with col2:             
         # Placeholder for image
-         st.imagitchie.('https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg', use_column_width=True)
+         st.imagitchie.('https://cdn.pixabay.com/photo/2024/02/28/07/42/european-shorthair-8601492_1280.jpg')
 
     # About Page
 elif page == '🤠 About':
