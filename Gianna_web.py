@@ -53,8 +53,8 @@ if page == '🏠 Home':
                  🏝️ **Fun Fact:** I love to travel
             ''')
        with col2:             
-    # Placeholder for image
-     st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
+        # Placeholder for image
+         st.imagitchie.('https://share.google/EQqXw3YOqYdTLx0NP')
     
 # About Page
 elif page == '🤠 About':
