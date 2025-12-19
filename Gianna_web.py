@@ -95,7 +95,7 @@ elif page == '💼 Projects':
     col1, col2 = st.columns([1, 2])
   
     with col1:
-        st.image("https://share.google/lM2V3LVCxUhu7BLn0",use_column_width = True)
+        st.image(https://share.google/lM2V3LVCxUhu7BLn0",use_column_width = True)
 
     with col2:
         st.subheader('🛒 E-Commerce Price Tracker')
