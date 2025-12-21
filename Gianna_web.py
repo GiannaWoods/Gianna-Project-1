@@ -154,19 +154,19 @@ elif page == '🛠 Skills':
     st.warning('Twitter')
 
 elif page == '📝 Resume':
-  st.title('Resume')
+    st.title('Resume')
 
-  # Read PDF from my GitHub repository
- with open("Gianna_Woods_Resume.pdf", "rb") as pdf_file:
-st.sidebar.markdown("[📄 Download Resume](Gianna_Woods_Resume.pdf)")
+    with open("Gianna_Woods_Resume.pdf", "rb") as pdf_file:
+        PDFbyte = pdf_file.read()
 
-  st.download_button(
-    label ='🔻 Download Full Resume (PDF)',
-    data = PDFbyte,
-    file_name = 'my_resume.pdf',
-    mime ='application/pdf'
-  )
+    st.sidebar.markdown("[📄 Download Resume](Gianna_Woods_Resume.pdf)")
 
+    st.download_button(
+        label="🔻 Download Full Resume (PDF)",
+        data=PDFbyte,
+        file_name="Gianna_Woods_Resume.pdf",
+        mime="application/pdf"
+    )
 elif page == '📩 Contact':
   st.title("Let's Connect!")
 
