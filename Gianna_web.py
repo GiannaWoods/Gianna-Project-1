@@ -157,7 +157,7 @@ elif page == '📝 Resume':
   st.title('Resume')
 
   # Read PDF from my GitHub repository
-  with open('Gianna N. Woods resumè.docx.pdf'
+  with open('Gianna N. Woods resumè.docx.pdf')
   
   st.download_button(
     label ='🔻 Download Full Resume (PDF)',
