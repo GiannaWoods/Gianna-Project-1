@@ -156,7 +156,8 @@ elif page == '🛠 Skills':
 elif page == '📝 Resume':
     st.title('Resume')
 
- with open("assets/Gianna_Woods_Resume.pdf", "rb") as pdf_file:
+
+with open("assets/Gianna_Woods_Resume.pdf", "rb") as pdf_file:
     PDFbyte = pdf_file.read()
 
 st.sidebar.markdown("[📄 Download Resume](assets/Gianna_Woods_Resume.pdf)")
