@@ -98,9 +98,9 @@ elif page == '💼 Projects':
        st.image('top-view-green-painted-rock-turtle-white-table-art-supplies-brushes-gouache-paints-children-project-diy-concept-step-385703898.jpg')
 
     with col2:
-        st.subheader('🛒 E-Commerce Price Tracker')
-        st.write('Python web scraper that monitors Amazon prices and sends alerts')
-        st.caption('**Technologies:** Phone, Ipad, Computer')
+        st.subheader('🐢Snapping Turtle-clay study')
+        st.write('Clay sculpture study exploring instinct, protection,and form.')
+        st.caption('**clay,Food coloring')
 
 
   # Project 2 
@@ -110,9 +110,9 @@ elif page == '💼 Projects':
       st.image('1-BIG_FimagePROJ114.jpg', use_column_width = True)
      
     with col2:
-      st.subheader('📊 Student Grade Calulator')
-      st.write('Interactive web app for calculating and visualizing grades')
-      st.caption('**Technologies:** Python, Pandas, Plotly')
+      st.subheader('🗿Architectural Study')
+      st.write('Mixed media exploration of balance, space, and constructed form.')
+      st.caption('**Cardboard and paper')
 
 elif page == '🛠 Skills':
   st.title('Technical Skills')
