@@ -95,7 +95,7 @@ elif page == '💼 Projects':
     col1, col2 = st.columns([1, 2])
   
     with col1:
-       st.image("https://share.google/MnG7T5CmOGhRFThmx.jpg",caption="Test project",use_column_width=True)
+       st.image('top-view-green-painted-rock-turtle-white-table-art-supplies-brushes-gouache-paints-children-project-diy-concept-step-385703898.jpg')
 
     with col2:
         st.subheader('🛒 E-Commerce Price Tracker')
