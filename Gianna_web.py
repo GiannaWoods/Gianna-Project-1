@@ -148,7 +148,7 @@ elif page == '🛠 Skills':
     st.info('Instagram')
     st.warning('Google Docs')
     
-    with col3:
+  with col3:
     st.success('Presentations')
     st.info('CNN')
     st.warning('Twitter')
