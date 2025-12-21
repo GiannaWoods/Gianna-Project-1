@@ -148,7 +148,7 @@ elif page == '🛠 Skills':
     st.info('Instagram')
     st.warning('Google Docs')
     
-  with col3:
+    with col3:
     st.success('Presentations')
     st.info('CNN')
     st.warning('Twitter')
@@ -159,7 +159,7 @@ elif page == '📝 Resume':
   # Read PDF from my GitHub repository
   with open('st.sidebar.markdown("Gianna_Woods_Resume.pdf")
 st.sidebar.markdown("(📄 Download Resume](Gianna_Woods_Resume.pdf)")
-  
+
   st.download_button(
     label ='🔻 Download Full Resume (PDF)',
     data = PDFbyte,
