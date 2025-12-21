@@ -157,8 +157,13 @@ elif page == '📝 Resume':
     st.title('Resume')
 
 
- with open("assets/Gianna_Woods_Resume.pdf", "rb") as pdf_file:
-   st.sidebar.markdown("[📄 Download Resume](assets/Gianna_Woods_Resume.pdf)")
+elif page == '📝 Resume':
+    st.title('Resume')
+
+    with open("assets/Gianna_Woods_Resume.pdf", "rb") as pdf_file:
+        PDFbyte = pdf_file.read()
+
+    st.sidebar.markdown("[📄 Download Resume](assets/Gianna_Woods_Resume.pdf)")
 
     st.download_button(
         label="🔻 Download Full Resume (PDF)",
