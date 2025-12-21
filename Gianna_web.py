@@ -157,8 +157,8 @@ elif page == '📝 Resume':
   st.title('Resume')
 
   # Read PDF from my GitHub repository
-  with open('st.sidebar.markdown("### Resume")
-st.sidebar.markdown("[📄 Download Resume](Gianna_Woods_Resume.pdf)")
+  with open('st.sidebar.markdown("Gianna_Woods_Resume.pdf")
+st.sidebar.markdown("(📄 Download Resume](Gianna_Woods_Resume.pdf)")
   
   st.download_button(
     label ='🔻 Download Full Resume (PDF)',
